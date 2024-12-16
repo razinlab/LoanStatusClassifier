@@ -5,17 +5,23 @@ This project predicts loan eligibility based on numerical and categorical data. 
 Full project is located in main.ipynb, the cells are broken down by section in the cells folder.
 
 ## Features
-- Exploratory Data Analysis and Visualization
-- Classification Modeling
-    - Logistic Regression
-    - Stochastic Gradient Descent
-    - Decision Tree Methods
-- Accuracy Evalutation
-- Cross Validation
-- Hyperparameter Tuning (Randomized Search)
+- Exploratory Data Analysis (EDA): Understanding the dataset through visualizations and statistical analysis.
+- Data Cleaning: Handling missing values, outliers, and feature scaling.
+- Preprocessing: Creating pipelines for numerical and categorical data as input for models.
+- Model Selection: Comparing multiple machine learning models (e.g., Logistic Regression, Gradient Boosting, XGBoost, etc.).
+- Hyperparameter Tuning: Crossvalidating with different parameters to find optimal results.
+- Model Evaluation: Assessing accuracy for each model used
+
+## Tools Used
+- Python
+- Libraries:
+  - numpy, pandas, matplotlib, seaborn
+  - sklearn
+  - xgboost, lightgbm, catboost
+- Jupyter Notebook (in Colab)
 
 ## Results
-A boosted decision tree classifier performed the best being rougly ~5% more accurate than linear classifiers.
+Achieved ~88% with logistic and SGD classifiers. A boosted decision tree classifier performed the best being rougly ~5% more accurate than linear classifiers.
 
 ## Next Steps
 Some possible next steps for a more comprehensive solution are:
