@@ -2,6 +2,8 @@
 ## Project Overview
 This project predicts loan eligibility based on numerical and categorical data. It demonstrates proficiency in exploratory data analysis, data preprocessing, machine learning modeling and evaluation.
 
+Full project is located in main.ipynb, the cells are broken down by section in the cells folder.
+
 ## Features
 - Exploratory Data Analysis and Visualization
 - Classification Modeling
