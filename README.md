@@ -7,7 +7,7 @@ Full project is located in main.ipynb, the cells are broken down by section in t
 ## Features
 - Exploratory Data Analysis (EDA): Understanding the dataset through visualizations and statistical analysis.
 - Data Cleaning: Handling missing values, outliers, and feature scaling.
-- Preprocessing: Creating pipelines for numerical and categorical data as input for models.
+- Preprocessing and Feature Engineering: Creating pipelines for numerical and categorical data as input for models.
 - Model Selection: Comparing multiple machine learning models (e.g., Logistic Regression, Gradient Boosting, XGBoost, etc.).
 - Hyperparameter Tuning: Crossvalidating with different parameters to find optimal results.
 - Model Evaluation: Assessing accuracy for each model used
