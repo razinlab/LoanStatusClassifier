@@ -21,7 +21,7 @@ Full project is located in main.ipynb, the cells are broken down by section in t
 - Jupyter Notebook (in Colab)
 
 ## Results
-Achieved ~88% with logistic and SGD classifiers. A boosted decision tree classifier performed the best being rougly ~5% more accurate than linear classifiers.
+Achieved ~88% accuracy with logistic and SGD classifiers. A boosted decision tree classifier performed the best being rougly ~5% more accurate than linear classifiers.
 
 ## Next Steps
 Some possible next steps for a more comprehensive solution are:
