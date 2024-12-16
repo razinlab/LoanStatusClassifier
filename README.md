@@ -4,9 +4,9 @@ This project predicts loan eligibility based on numerical and categorical data. 
 
 ## Features
 - Exploratory Data Analysis and Visualization
-- Regression Modeling
+- Classification Modeling
     - Logistic Regression
-    - Stochastic Gradient Descent Classification
+    - Stochastic Gradient Descent
     - Decision Tree Methods
 - Accuracy Evalutation
 - Cross Validation
