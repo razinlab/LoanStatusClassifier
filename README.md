@@ -1,4 +1,4 @@
-# Loan Eligibility Classification with Machine Learning: Data Analysis to Model Deployment
+# Complete ML Workflow for Loan Eligibility Classification
 ## Project Overview
 This project predicts loan eligibility based on numerical and categorical data. It demonstrates proficiency in exploratory data analysis, data preprocessing, machine learning modeling and evaluation.
 
